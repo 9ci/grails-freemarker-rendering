@@ -1,0 +1,15 @@
+<plugin name='freemarker-plugin-test' version='0.1' grailsVersion='1.3.7 &gt; *'>
+  <author>Your name</author>
+  <title>Plugin summary/headline</title>
+  <description>\
+Brief description of the plugin.
+</description>
+  <documentation>http://grails.org/plugin/freemarker-plugin-test</documentation>
+  <resources>
+    <resource>BuildConfig</resource>
+    <resource>DataSource</resource>
+    <resource>PluginTestController</resource>
+  </resources>
+  <dependencies />
+  <behavior />
+</plugin>
